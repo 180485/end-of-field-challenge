@@ -1,14 +1,12 @@
 body {
-    
-    margin: 20 auto;
-    padding: 20auto;
+    display:block;
+    word-wrap: break-word;
    
 }
 
 .container {
-    background-color:whitesmoke;
-    
-    height: 580px;
+    background-color:#dfe2e5;
+    height: 459px;
 
 }
 
@@ -18,10 +16,22 @@ body {
 }
 .img1{
     float:left;
-    width: 548px;
-    height: 500px;
+    width: 540px;
+    height: 459px;
 }
 
-.card-title{
-    padding-left: 100px;
+h3{
+    text-align:center;
+    font-size: 25px;
+    margin: 120px;
+    padding-right: -100px;
+    
+}
+
+p{
+    text-align:center;
+    font-size: 17px;
+    color: grey;
+    margin-top: -80px;
+    padding-right: 40px;
 }
