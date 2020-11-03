@@ -1,0 +1,27 @@
+body {
+    
+    margin: 20 auto;
+    padding: 20auto;
+   
+}
+
+.container {
+    background-color:whitesmoke;
+    
+    height: 580px;
+
+}
+
+.interface {
+    overflow: auto;
+   
+}
+.img1{
+    float:left;
+    width: 548px;
+    height: 500px;
+}
+
+.card-title{
+    padding-left: 100px;
+}
